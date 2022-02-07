@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "547866714710",
+    "firebase_url": "https://touchlessbanking.firebaseio.com",
+    "project_id": "touchlessbanking",
+    "storage_bucket": "touchlessbanking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547866714710:android:6e5f8814364b16944491f7",
+        "android_client_info": {
+          "package_name": "com.kshitij.touchlessbanking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547866714710-cvlcgne0eq9fokkgqehptkflpuora6da.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kshitij.touchlessbanking",
+            "certificate_hash": "c0cc19ab63242f5e2891c144fe62a91ccb890602"
+          }
+        },
+        {
+          "client_id": "547866714710-uh0c4gmhccm6qflt6940510k2pqjb7vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTeJtW-S-adyht6oQvRRFtqXIG_YHXFO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547866714710-uh0c4gmhccm6qflt6940510k2pqjb7vd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
